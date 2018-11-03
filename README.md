@@ -1,2 +1,2 @@
 # ProxyCrawler
-crawl free proxy whit python3
+crawl free proxy
