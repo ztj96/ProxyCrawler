@@ -1,2 +1,2 @@
 # ProxyCrawler
-crawl free proxyssssssssss
+crawl free proxy
